@@ -278,6 +278,7 @@ display: none;
       position: absolute;
       left: 10%;
       top: 15%;
+     width: 250px;
 }
 }
 
@@ -292,7 +293,11 @@ display: none;
    height: 50px;
    padding: 8px;
 }
-
+@media (max-width:768px){
+.form h2 {
+   width: 250px;
+}
+}
 .form input {
    width: 240px;
    height: 35px;
