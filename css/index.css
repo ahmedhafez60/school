@@ -423,7 +423,7 @@ width: 100%;
 @media (max-width:768px){
    .col-6 .flex-8{ 
 position: relative;
-right: 50px;
+right: 85px;
       
 }
 }
